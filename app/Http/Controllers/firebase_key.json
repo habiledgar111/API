@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tugas-akhir-pemin",
+  "private_key_id": "1abc7e39388578777715a7eef96389a17860e1f5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDw6bCZobVNhthx\nDKc1cyYuyB9RUVivjzTwaZUGHy//iWQZktwOlOfpeQYlMk5IvZ1lFEezCPE0vWG9\nBFIo1Ss8rAnL1C2MWC7y0R4O7n4zVqnavxw3OqkZdfcVdKtfjAyIrr0Xxw5PDqlo\nqW4pAe6h9t4lsfP1DLrJqtwTg0UoKcqWA24/Sj9/Al95DZsSgeF7uxk30MoUDVSS\nw69vqeWKDMzMOep4kH9bI7fh1NsjB7+iySKwrfv8CTrVjcCB/OfHkQlrgTi2WVkE\nG2InPKlc5thbjRM+wme5YykcDbLqD2saQ168IIYToBEOdcKgXiopG5DTYC8oAlH3\ns0ADOhtfAgMBAAECggEAA7MC7t5TI1/zs4tch0SVDIOEKkJ+gyDxe34+Nzwusiom\nQFecoMNb6vOHIEvCdKQnZjrxKD2gk+JokszIhNn+ck24pMma8scT3s9Oj9oiU/V7\ntuEtChK7hVQ7ZA1I6GGv0OrQpSx9pWx14NE2i339Gmg+XFkm2YIa3X04feWLyqRk\nrYJQrHPp7HJR8ZSRwT9xioL9nchaKo479bXXZE1QC5k8P+M+MgbLPLH/9aOX4IaT\nRPKBSIHVp0S0LrWB02Ud1JwrdzxaA9nH99tJ/d33pU0Rk5tGUe/jE3JjSn9wBePH\nW6vFg8elChQkg0/IYRGy7dYxEM06CnmTcjYMMb6bsQKBgQD8/YHHlXPUIjegQa3G\nDMfmxsjNcuMMAiFuLETAMy6Xfq3YRBgEbP69nIMOEtKdqDCy63XbQW4bZGGyxFxn\n1/A0/zZIhttV7VRlvIJWp3WWQwWa5YKaXIZ4zp3OnNvXtB4NfPWFpVqamY9ybY0N\n4wMNDHfZVyPov7CJm0W3XXNFCQKBgQDzx2aN9kJappZpxFhI5o5HNFhF+dl9OWtj\nJlsKKj2nhu65OlVvAefCC07WgNsEjSAyO5SDd51IL/FGPrj4Gy66p0isLzr6j7+3\nwpJidd3siQkgHpGn+gJacEq4T4YC5Zs8AWpgibdhf7Mxdwd7Haok8kujY+jKbSpf\nWkRjpPqfJwKBgFgsHmQqAWGIv2xaF69z2uPimi+If/s6bt5QDXITJITmQL6kFN7O\nAgahmsd35fHOoZJqH/xXlIF1fdtpNm92wiAmZovmfGE5QvXmOmLrID9LgpOWs+sK\nnk9Sa4uL/c7y1pqK16NJmwdQx77w0X1qhjCxDMAx77D5xhRfim+64SbJAoGBALmQ\nvNktbp8QlgiW5FlB32YGS3eg09SFw9/qj3xyYRJIHSo0ZFomyiMkdnPEDHQvdSWn\nwso8YCZWEERXdHewQWbl9eTT4wJeMCMSYlm+vRrTyXWAr4F9RxNOzSH1rt4/p2YK\n8c3gpw35pg7uO2yVTTHomnkakVaduJZy4QI00G4bAoGACotymJWdLw2k4254U8MF\nnSrOVKfVY0fIUJ5vfi4XJinbVS4BgX/6a7Y08op0d0pFpqWLbA0rfYCzriBSLGRz\nEqz6yY7pjS6uvL3rLSRppbGi6zFyBtS3RfQE6yk/0azr26SG7P13fV8mE7ohcP/w\nOLqtYxLGLlEJHSp6HHGWdSI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-j4uyw@tugas-akhir-pemin.iam.gserviceaccount.com",
+  "client_id": "110007285570941557774",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-j4uyw%40tugas-akhir-pemin.iam.gserviceaccount.com"
+}
