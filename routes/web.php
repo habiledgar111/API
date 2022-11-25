@@ -18,3 +18,6 @@ $router->get('/', function () use ($router) {
 });
 
 $router->get('/firebase','firebaseController@index');
+$router->post('/authentication/register','autentikasi@register');
+$router->post('/authentication/login','autentikasi@login');
+$router->get('/home', ['middleware' => 'auth','uses' => 'autentikasi@home']);

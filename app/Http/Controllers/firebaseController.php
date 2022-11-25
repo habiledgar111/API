@@ -27,10 +27,10 @@ class firebaseController extends Controller
             // ->withServiceAccount(__DIR__.'/firebase_key.json');
         $database = $firebase->createDatabase();
         $ref = $database->getReference('Subjects');
-        $key = $ref->push()->getKey();
         $ref->getChild($key)->set([
             'SubjectName' => 'Laravel'
         ]);
+        $key = $ref->push()->getKey();
         return $key;
     }
 }
